@@ -31,17 +31,17 @@ div {
 }
 
 #red {
-	background: red;
+	background: #ff0000;
 	text-align: right;
 }
 
 #blue {
-	background: blue;
+	background: #0000ff;
 	text-align: left;
 }
 
 #yellow {
-	background: yellow;
+	background: #ffff00;
 	text-align: right;
 	color: black;
 }
@@ -51,7 +51,7 @@ div {
 }
 
 #green {
-	background: green;
+	background: #008000;
 	text-align: left;
 }
 
